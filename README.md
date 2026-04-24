@@ -1,3 +1,6 @@
+## 🖼 Dashboard Preview
+![Dashboard](dashboard.png)
+
 # Papollo_Hospital_Dashboard
 📊 Project Overview
 
@@ -89,3 +92,4 @@ Tracking revenue sources
 Improving hospital resource utilization
 
 This project demonstrates how Power BI transforms healthcare data into actionable insights.
+
